@@ -15,7 +15,7 @@ import animationData from "../animations/typing.json";
 import UpdateGroupChatModal from "./UpdateGroupChatModal";
 
 import io from "socket.io-client";
-const ENDPOINT = "https://whatsuppclone-zms6.onrender.com";
+const ENDPOINT = "https://whatsuppclone-3pn3.onrender.com/";
 var socket, selectedChatCompare;
 
 const SingleChat = ({ fetchAgain, setFetchAgain }) => {

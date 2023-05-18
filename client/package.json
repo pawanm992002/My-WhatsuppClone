@@ -2,7 +2,7 @@
   "name": "client",
   "version": "0.1.0",
   "private": true,
-  "proxy": "https://whatsuppclone-zms6.onrender.com",
+  "proxy": "https://whatsuppclone-3pn3.onrender.com",
   "dependencies": {
     "@chakra-ui/icons": "^2.0.4",
     "@chakra-ui/react": "^2.2.4",
